@@ -52,11 +52,9 @@ During this internship, I worked on real-world machine learning tasks focused on
 
 A video demonstration of the tasks and results has been shared on LinkedIn to reflect my work during the internship.
 
-🔗 [LinkedIn Post (Add Your Link Here)](#)
+🔗 [LinkedIn Post](#)
 
 Feel free to check out the post and engage!  
-Tag: `#cognifyz #cognifyzTech #cognifyzTechnologies`
-
 ---
 
 ## 🙌 Acknowledgments
