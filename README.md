@@ -59,26 +59,6 @@ Tag: `#cognifyz #cognifyzTech #cognifyzTechnologies`
 
 ---
 
-## 📂 Repository Structure
-
-📁 ML-Internship-Cognifyz
-│
-├── 📁 Task1_Rating_Prediction
-│   └── rating_model.ipynb
-│
-├── 📁 Task2_Recommendation_System
-│   └── restaurant_recommender.ipynb
-│
-├── 📁 Task3_Cuisine_Classification
-│   └── cuisine_classifier.ipynb
-│
-├── 📁 Dataset
-│   └── restaurant_data.csv
-│
-└── README.md
-
----
-
 ## 🙌 Acknowledgments
 
 Special thanks to **Cognifyz Technologies** for providing this learning opportunity and mentoring throughout the internship. This experience helped strengthen my understanding of machine learning in real-world contexts.
