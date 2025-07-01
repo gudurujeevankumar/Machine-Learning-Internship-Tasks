@@ -64,9 +64,9 @@ During this internship, I worked on real-world machine learning tasks focused on
 
 ## 📽️ Project Showcase
 
-A video demonstration of the tasks and results has been shared on LinkedIn to reflect my work during the internship.
+Demonstration of the tasks and results has been shared on LinkedIn to reflect my work during the internship.
 
-🔗 [LinkedIn Post](https://www.linkedin.com/in/gudurujeevankumar/)
+🔗 [LinkedIn Posts](https://www.linkedin.com/in/gudurujeevankumar/)
 
 Feel free to check out the post and engage!  
 ---
