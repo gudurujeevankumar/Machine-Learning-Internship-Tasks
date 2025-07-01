@@ -46,13 +46,27 @@ During this internship, I worked on real-world machine learning tasks focused on
   - Evaluation using accuracy, precision, and recall
   - Bias and performance analysis
 
+### 🔹 Task 4: Geographical Analysis of Restaurants
+- **Goal**: Visualize and analyze restaurant locations and their attributes based on geospatial data.
+- **Approach**:
+  - Used `Folium` to generate an interactive map of restaurants by latitude and longitude
+  - Grouped data by city and locality to calculate average ratings, common cuisines, and price range
+  - Generated statistical summaries and visualizations using `Matplotlib` and `Seaborn`
+  - Exported:
+    - 📍 `restaurant_distribution_map.html`
+    - 📊 `city_distribution.png`
+    - 📊 `locality_distribution.png`
+- **Outcome**:
+  - Identified top-performing cities and localities
+  - Gained insights into regional cuisine trends and price segmentation
+
 ---
 
 ## 📽️ Project Showcase
 
 A video demonstration of the tasks and results has been shared on LinkedIn to reflect my work during the internship.
 
-🔗 [LinkedIn Post](#)
+🔗 [LinkedIn Post](https://www.linkedin.com/in/gudurujeevankumar/)
 
 Feel free to check out the post and engage!  
 ---
@@ -66,11 +80,11 @@ Special thanks to **Cognifyz Technologies** for providing this learning opportun
 ## 📢 Note
 
 - Please maintain academic integrity and do not plagiarize this work.
-- For professional growth, consider tagging Cognifyz and using the hashtags:
-  `#cognifyz #cognifyzTech #cognifyzTechnologies`
+- For professional growth, consider tagging Cognifyz and using the hashtags:  
+  `#cognifyz #cognifyzTech #cognifyzTechnologies #machinelearning #internship`
 
 ---
 
-📬 For any queries, contact:
+📬 For any queries, contact:  
 **Email**: contact@cognifyz.com  
 **Website**: [www.cognifyz.com](https://www.cognifyz.com)
